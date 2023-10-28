@@ -1,0 +1,12 @@
+{
+    "quote": {
+        "column": {
+            "accept": true
+        }
+    },
+    "sales_order": {
+        "column": {
+            "accept": true
+        }
+    }
+}
